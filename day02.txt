@@ -1,0 +1,7 @@
+git으로 버전관리하기 
+1. local repository 만들기 
+    1. cmd 혹은 terminal 로 local repository
+    만들고 싶은 폴더로 이동하기 
+        cd 명령어로 활용하여 이동 
+        ex) cd "폴더이름/폴더이름/폴더이름"
+         

@@ -1,0 +1,22 @@
+버전 관리 시스템 
+    svn, ... git 
+
+    git과 github연동 
+
+git 설치 확인 
+git 설치 
+
+git의 기본개념 
+    git은 버전을 관리하기 위해서 작업공간(폴더)을 세 개의 논리적인 단위로 관리한다  
+    1. 작업공간(working space / working tree)
+    2. 스테이지(stage)
+    3. repository 
+
+git의 저장소 설정하기 
+    내가 버전관리를 하고 싶은 폴더로 이동하여 그 안에서
+        git init
+    실행 
+
+    git 저장소로 활용하고 있는 폴더 안에서 또다른 폴더를 git 저장소로 활용할 수는 없다 
+
+mac: 
